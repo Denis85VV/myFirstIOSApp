@@ -12,6 +12,17 @@
 		921AB0761FE9ACC900AADE3D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 921AB0741FE9ACC900AADE3D /* Main.storyboard */; };
 		921AB0781FE9ACC900AADE3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 921AB0771FE9ACC900AADE3D /* Assets.xcassets */; };
 		921AB07B1FE9ACC900AADE3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 921AB0791FE9ACC900AADE3D /* LaunchScreen.storyboard */; };
+		921AB08E1FE9CFC900AADE3D /* 1024-App-Store.png in Resources */ = {isa = PBXBuildFile; fileRef = 921AB0831FE9CFC900AADE3D /* 1024-App-Store.png */; };
+		921AB08F1FE9CFC900AADE3D /* 29@1x-Settings(iPad2,iPadMini).png in Resources */ = {isa = PBXBuildFile; fileRef = 921AB0841FE9CFC900AADE3D /* 29@1x-Settings(iPad2,iPadMini).png */; };
+		921AB0901FE9CFC900AADE3D /* 29@2x-Settings(iPhone6,5s,5,4s,4).png in Resources */ = {isa = PBXBuildFile; fileRef = 921AB0851FE9CFC900AADE3D /* 29@2x-Settings(iPhone6,5s,5,4s,4).png */; };
+		921AB0911FE9CFC900AADE3D /* 29@3x-Settings(iPhone6+).png in Resources */ = {isa = PBXBuildFile; fileRef = 921AB0861FE9CFC900AADE3D /* 29@3x-Settings(iPhone6+).png */; };
+		921AB0921FE9CFC900AADE3D /* 40@1x-Spotlight(iPad2,iPadMini).png in Resources */ = {isa = PBXBuildFile; fileRef = 921AB0871FE9CFC900AADE3D /* 40@1x-Spotlight(iPad2,iPadMini).png */; };
+		921AB0931FE9CFC900AADE3D /* 40@2x-Spotlight(iPhone6,5s,5,4s,4).png in Resources */ = {isa = PBXBuildFile; fileRef = 921AB0881FE9CFC900AADE3D /* 40@2x-Spotlight(iPhone6,5s,5,4s,4).png */; };
+		921AB0941FE9CFC900AADE3D /* 40@3x-Spotlight(iPhone6+).png in Resources */ = {isa = PBXBuildFile; fileRef = 921AB0891FE9CFC900AADE3D /* 40@3x-Spotlight(iPhone6+).png */; };
+		921AB0951FE9CFC900AADE3D /* 60@2x-Homescreen(iPhone6,5s,5,4s,4).png in Resources */ = {isa = PBXBuildFile; fileRef = 921AB08A1FE9CFC900AADE3D /* 60@2x-Homescreen(iPhone6,5s,5,4s,4).png */; };
+		921AB0961FE9CFC900AADE3D /* 60@3x-Homescreen(iPhone6+).png in Resources */ = {isa = PBXBuildFile; fileRef = 921AB08B1FE9CFC900AADE3D /* 60@3x-Homescreen(iPhone6+).png */; };
+		921AB0971FE9CFC900AADE3D /* 76@1x-Homescreen(iPad2,iPadMini).png in Resources */ = {isa = PBXBuildFile; fileRef = 921AB08C1FE9CFC900AADE3D /* 76@1x-Homescreen(iPad2,iPadMini).png */; };
+		921AB0981FE9CFC900AADE3D /* 76@2x-Homescreen(iPad2,iPadMini).png in Resources */ = {isa = PBXBuildFile; fileRef = 921AB08D1FE9CFC900AADE3D /* 76@2x-Homescreen(iPad2,iPadMini).png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +33,17 @@
 		921AB0771FE9ACC900AADE3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		921AB07A1FE9ACC900AADE3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		921AB07C1FE9ACC900AADE3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		921AB0831FE9CFC900AADE3D /* 1024-App-Store.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1024-App-Store.png"; sourceTree = "<group>"; };
+		921AB0841FE9CFC900AADE3D /* 29@1x-Settings(iPad2,iPadMini).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "29@1x-Settings(iPad2,iPadMini).png"; sourceTree = "<group>"; };
+		921AB0851FE9CFC900AADE3D /* 29@2x-Settings(iPhone6,5s,5,4s,4).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "29@2x-Settings(iPhone6,5s,5,4s,4).png"; sourceTree = "<group>"; };
+		921AB0861FE9CFC900AADE3D /* 29@3x-Settings(iPhone6+).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "29@3x-Settings(iPhone6+).png"; sourceTree = "<group>"; };
+		921AB0871FE9CFC900AADE3D /* 40@1x-Spotlight(iPad2,iPadMini).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "40@1x-Spotlight(iPad2,iPadMini).png"; sourceTree = "<group>"; };
+		921AB0881FE9CFC900AADE3D /* 40@2x-Spotlight(iPhone6,5s,5,4s,4).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "40@2x-Spotlight(iPhone6,5s,5,4s,4).png"; sourceTree = "<group>"; };
+		921AB0891FE9CFC900AADE3D /* 40@3x-Spotlight(iPhone6+).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "40@3x-Spotlight(iPhone6+).png"; sourceTree = "<group>"; };
+		921AB08A1FE9CFC900AADE3D /* 60@2x-Homescreen(iPhone6,5s,5,4s,4).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "60@2x-Homescreen(iPhone6,5s,5,4s,4).png"; sourceTree = "<group>"; };
+		921AB08B1FE9CFC900AADE3D /* 60@3x-Homescreen(iPhone6+).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "60@3x-Homescreen(iPhone6+).png"; sourceTree = "<group>"; };
+		921AB08C1FE9CFC900AADE3D /* 76@1x-Homescreen(iPad2,iPadMini).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "76@1x-Homescreen(iPad2,iPadMini).png"; sourceTree = "<group>"; };
+		921AB08D1FE9CFC900AADE3D /* 76@2x-Homescreen(iPad2,iPadMini).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "76@2x-Homescreen(iPad2,iPadMini).png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +76,7 @@
 		921AB06F1FE9ACC900AADE3D /* Roll Dice */ = {
 			isa = PBXGroup;
 			children = (
+				921AB0821FE9CFC900AADE3D /* icon */,
 				921AB0701FE9ACC900AADE3D /* AppDelegate.swift */,
 				921AB0721FE9ACC900AADE3D /* ViewController.swift */,
 				921AB0741FE9ACC900AADE3D /* Main.storyboard */,
@@ -62,6 +85,24 @@
 				921AB07C1FE9ACC900AADE3D /* Info.plist */,
 			);
 			path = "Roll Dice";
+			sourceTree = "<group>";
+		};
+		921AB0821FE9CFC900AADE3D /* icon */ = {
+			isa = PBXGroup;
+			children = (
+				921AB0831FE9CFC900AADE3D /* 1024-App-Store.png */,
+				921AB0841FE9CFC900AADE3D /* 29@1x-Settings(iPad2,iPadMini).png */,
+				921AB0851FE9CFC900AADE3D /* 29@2x-Settings(iPhone6,5s,5,4s,4).png */,
+				921AB0861FE9CFC900AADE3D /* 29@3x-Settings(iPhone6+).png */,
+				921AB0871FE9CFC900AADE3D /* 40@1x-Spotlight(iPad2,iPadMini).png */,
+				921AB0881FE9CFC900AADE3D /* 40@2x-Spotlight(iPhone6,5s,5,4s,4).png */,
+				921AB0891FE9CFC900AADE3D /* 40@3x-Spotlight(iPhone6+).png */,
+				921AB08A1FE9CFC900AADE3D /* 60@2x-Homescreen(iPhone6,5s,5,4s,4).png */,
+				921AB08B1FE9CFC900AADE3D /* 60@3x-Homescreen(iPhone6+).png */,
+				921AB08C1FE9CFC900AADE3D /* 76@1x-Homescreen(iPad2,iPadMini).png */,
+				921AB08D1FE9CFC900AADE3D /* 76@2x-Homescreen(iPad2,iPadMini).png */,
+			);
+			path = icon;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +163,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				921AB08E1FE9CFC900AADE3D /* 1024-App-Store.png in Resources */,
+				921AB0951FE9CFC900AADE3D /* 60@2x-Homescreen(iPhone6,5s,5,4s,4).png in Resources */,
 				921AB07B1FE9ACC900AADE3D /* LaunchScreen.storyboard in Resources */,
 				921AB0781FE9ACC900AADE3D /* Assets.xcassets in Resources */,
+				921AB0911FE9CFC900AADE3D /* 29@3x-Settings(iPhone6+).png in Resources */,
+				921AB08F1FE9CFC900AADE3D /* 29@1x-Settings(iPad2,iPadMini).png in Resources */,
 				921AB0761FE9ACC900AADE3D /* Main.storyboard in Resources */,
+				921AB0921FE9CFC900AADE3D /* 40@1x-Spotlight(iPad2,iPadMini).png in Resources */,
+				921AB0981FE9CFC900AADE3D /* 76@2x-Homescreen(iPad2,iPadMini).png in Resources */,
+				921AB0941FE9CFC900AADE3D /* 40@3x-Spotlight(iPhone6+).png in Resources */,
+				921AB0961FE9CFC900AADE3D /* 60@3x-Homescreen(iPhone6+).png in Resources */,
+				921AB0971FE9CFC900AADE3D /* 76@1x-Homescreen(iPad2,iPadMini).png in Resources */,
+				921AB0931FE9CFC900AADE3D /* 40@2x-Spotlight(iPhone6,5s,5,4s,4).png in Resources */,
+				921AB0901FE9CFC900AADE3D /* 29@2x-Settings(iPhone6,5s,5,4s,4).png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
